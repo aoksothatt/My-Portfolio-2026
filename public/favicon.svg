@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#3f8f5b" />
+  <rect x="8" y="8" width="6" height="6" fill="#ffffff" opacity="0.9" />
+  <text
+    x="21"
+    y="23"
+    font-family="Roboto, Arial, sans-serif"
+    font-size="15"
+    font-weight="700"
+    fill="#ffffff"
+    text-anchor="middle"
+  >A</text>
+</svg>

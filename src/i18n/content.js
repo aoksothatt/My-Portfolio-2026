@@ -67,7 +67,25 @@ export const en = {
     kicker: 'My Work',
     title: 'Projects',
     viewOnGitHub: 'View on GitHub',
+    github: 'GitHub',
+    liveDemo: 'Live Demo',
     items: [
+      {
+        name: 'Bethel High School Football Team',
+        stack: 'Full Stack / React + Node.js',
+        description:
+          'A full-stack sports management web application for Bethel High School to showcase football team information, rosters, and control & update player status dynamically.',
+        demoUrl: 'https://bethel-fm51.onrender.com/',
+        url: 'https://github.com/aoksothatt/bethel',
+      },
+      {
+        name: 'Grocery Store E-Commerce',
+        stack: 'React + Tailwind (ETEC Project)',
+        description:
+          'A responsive online grocery store web application featuring product browsing, search filtering, cart management, and modern UI built as an ETEC final project.',
+        demoUrl: 'https://grosory-store-final-project-etic-we.vercel.app/',
+        url: 'https://github.com/aoksothatt/GrosoryStoreFinalProject-Etic-webforntend',
+      },
       {
         name: 'Event & Booking System',
         stack: 'Vue JS + Laravel',
@@ -188,7 +206,25 @@ export const kh = {
     kicker: 'ស្នាដៃរបស់ខ្ញុំ',
     title: 'គម្រោង',
     viewOnGitHub: 'មើលនៅលើ GitHub',
+    github: 'GitHub',
+    liveDemo: 'Live Demo',
     items: [
+      {
+        name: 'Bethel High School Football Team',
+        stack: 'Full Stack / React + Node.js',
+        description:
+          'កម្មវិធីវេប Full Stack សម្រាប់ក្រុមបាល់ទាត់ Bethel High School ដើម្បីបង្ហាញព័ត៌មានក្រុម និងគ្រប់គ្រង ព្រមទាំងកែប្រែស្ថានភាពកីឡាករ (Player Status)។',
+        demoUrl: 'https://bethel-fm51.onrender.com/',
+        url: 'https://github.com/aoksothatt/bethel',
+      },
+      {
+        name: 'Grocery Store E-Commerce',
+        stack: 'React + Tailwind (គម្រោង ETEC)',
+        description:
+          'កម្មវិធីវេបហាងលក់គ្រឿងទេសទាន់សម័យ ដែលមានមុខងារស្វែងរកទំនិញ រទេះទិញទំនិញ និង UI ដ៏ស្រស់ស្អាត បង្កើតជាគម្រោងបញ្ចប់វគ្គនៅ ETEC CENTER។',
+        demoUrl: 'https://grosory-store-final-project-etic-we.vercel.app/',
+        url: 'https://github.com/aoksothatt/GrosoryStoreFinalProject-Etic-webforntend',
+      },
       {
         name: 'Event & Booking System',
         stack: 'Vue JS + Laravel',
